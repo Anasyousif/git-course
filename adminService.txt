@@ -4,4 +4,5 @@ manage the database
 closing the connection
 
 change 1 
-chnage 2 in my database
+chnage 2 in hash's database
+>>>>>>> feature3
